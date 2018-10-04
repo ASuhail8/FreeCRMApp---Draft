@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64722" started-at="2018-10-01T13:54:25Z" finished-at="2018-10-01T13:55:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64722" started-at="2018-10-01T13:54:25Z" finished-at="2018-10-01T13:55:29Z">
+      <class name="com.crm.qa.practice.DataProvider">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="preCondition" is-config="true" duration-ms="8415" started-at="2018-10-01T13:54:26Z" finished-at="2018-10-01T13:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="halfEbayRegistration" duration-ms="2072" started-at="2018-10-01T13:54:35Z" data-provider="getData" finished-at="2018-10-01T13:54:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abdulla]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Suhail]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test123@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abdulla123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="PostCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="PostCondition" is-config="true" duration-ms="677" started-at="2018-10-01T13:54:37Z" finished-at="2018-10-01T13:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="preCondition" is-config="true" duration-ms="7773" started-at="2018-10-01T13:54:37Z" finished-at="2018-10-01T13:54:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="halfEbayRegistration" duration-ms="2880" started-at="2018-10-01T13:54:45Z" data-provider="getData" finished-at="2018-10-01T13:54:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Zoya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sadaf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test234@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Zoya123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="PostCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="PostCondition" is-config="true" duration-ms="668" started-at="2018-10-01T13:54:48Z" finished-at="2018-10-01T13:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="preCondition" is-config="true" duration-ms="7257" started-at="2018-10-01T13:54:49Z" finished-at="2018-10-01T13:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="halfEbayRegistration" duration-ms="2558" started-at="2018-10-01T13:54:56Z" data-provider="getData" finished-at="2018-10-01T13:54:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nihal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ahmed]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test234@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[nihal123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="PostCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="PostCondition" is-config="true" duration-ms="684" started-at="2018-10-01T13:54:59Z" finished-at="2018-10-01T13:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="preCondition" is-config="true" duration-ms="16872" started-at="2018-10-01T13:54:59Z" finished-at="2018-10-01T13:55:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="halfEbayRegistration" duration-ms="2004" started-at="2018-10-01T13:55:16Z" data-provider="getData" finished-at="2018-10-01T13:55:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Awais]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akbar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test234@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[awais123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="PostCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="PostCondition" is-config="true" duration-ms="680" started-at="2018-10-01T13:55:18Z" finished-at="2018-10-01T13:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="preCondition" is-config="true" duration-ms="7338" started-at="2018-10-01T13:55:19Z" finished-at="2018-10-01T13:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="halfEbayRegistration" duration-ms="2486" started-at="2018-10-01T13:55:26Z" data-provider="getData" finished-at="2018-10-01T13:55:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kashif ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raheed]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kash.ras@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kash123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="PostCondition()[pri:0, instance:com.crm.qa.practice.DataProvider@7a765367]" name="PostCondition" is-config="true" duration-ms="674" started-at="2018-10-01T13:55:29Z" finished-at="2018-10-01T13:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCondition -->
+      </class> <!-- com.crm.qa.practice.DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
