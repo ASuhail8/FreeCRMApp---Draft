@@ -6,5 +6,6 @@ public interface AutoConst
 	String key = "webdriver.chrome.driver";
 	String value = "./drivers/chromedriver.exe";
 	String path = "./data/input.xlsx";
+	//Test
 	
 }
